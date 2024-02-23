@@ -58,6 +58,8 @@ RAM=16GB, SSD=512, CPU=i7-12700Hz
 ```
 🖥️ Just a Laboratory Exercise.
 
-💻 NetBeans 🖱️
+💻 Use NetBeans 🖱️
 
 💙 Instagram: [@izzyluuuuh](https://www.instagram.com/izzyluuuuh/)
+
+![preview img](https://github.com/izzyluuuuh/factory-method-pattern/blob/main/testfactory-code.png)
