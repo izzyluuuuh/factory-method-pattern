@@ -62,4 +62,5 @@ RAM=16GB, SSD=512, CPU=i7-12700Hz
 
 💙 Instagram: [@izzyluuuuh](https://www.instagram.com/izzyluuuuh/)
 
+## Actual Output
 ![preview img](https://github.com/izzyluuuuh/factory-method-pattern/blob/main/testfactory-code.png)
