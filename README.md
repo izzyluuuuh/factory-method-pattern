@@ -3,7 +3,7 @@
 
 The **Factory Method pattern** defines an interface or abstract class for creating objects in a superclass but allows subclasses to alter the type of objects to be created.
 
-### Project Name: **TestFactory**
+### Project Name: *TestFactory*
 
 1. Create an abstract superclass named **Laptop**. Any subclass of an abstract class must either implement all of the abstract methods in the superclass or be declared abstract itself. Copy the code below.
  ``` 
@@ -49,18 +49,20 @@ Laptop min = LaptopFactory.getSpecs("min", 8, 256, "i5-12450Hz");
 8. Instantiate another **Laptop** object named **reco**. Follow the syntax above but use the following values for the 2nd to 4th parameter: **16, 512, i7-12700Hz**
 9. Display the content of the two (2) objects in separate lines. 
 
-Sample Output:
+**Sample Output:**
 ```
 Minimum Specs:
 RAM=8GB, SSD=256, CPU=i5-12450Hz
 Recommended Specs:
 RAM=16GB, SSD=512, CPU=i7-12700Hz
 ```
-🖥️ Just a Laboratory Exercise.
+
+🖥️ Just a Laboratory Exercise for my 3rd-year college course "Application Development and Emerging Technologies."
+> SY2324-1T
 
 💻 Use NetBeans 🖱️
 
 💙 Instagram: [@izzyluuuuh](https://www.instagram.com/izzyluuuuh/)
 
 ## Actual Output
-![preview img](https://github.com/izzyluuuuh/factory-method-pattern/blob/main/testfactory-code.png)
+![preview img](https://github.com/izzyluuuuh/factory-method-pattern/blob/main/testfactory-output.png)
